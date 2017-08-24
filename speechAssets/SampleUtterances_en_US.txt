@@ -1,0 +1,17 @@
+
+GetNewFactIntent biggie me
+GetNewFactIntent give me a fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me more
+GetNewFactIntent give me the loot
+GetNewFactIntent tell me something
+GetNewFactIntent tell me something else
+GetNewFactIntent tell me something good
+GetNewFactIntent tell me something i do not know
+GetNewFactIntent give it to me straight
+GetNewFactIntent tell me all the things
+GetNewFactIntent tell me about it
+GetNewFactIntent give me knowledge
+GetNewFactIntent give me some information
+GetNewFactIntent give me what ya got
+GetNewFactIntent tell me another
