@@ -1,62 +1,16 @@
 {
   "intents": [
     {
-      "name": "AMAZON.CancelIntent",
-      "samples": [
-         "Slow your roll",
-         "Nevermind",
-         "Time out",
-         "Cancel"
-      ]
+      "intent": "GetNewFactIntent"
     },
     {
-      "name": "AMAZON.HelpIntent",
-      "samples": [
-         "Hold up",
-         "Hold on",
-         "Wait what",
-         "Help"
-      ]
+      "intent": "AMAZON.HelpIntent"
     },
     {
-      "name": "AMAZON.StopIntent",
-      "samples": [
-         "Gotta go",
-         "Stop",
-         "Exit",
-         "Quit"
-      ]
+      "intent": "AMAZON.StopIntent"
     },
     {
-      "name": "GetNewFactIntent",
-      "samples": [
-         "Anything else",
-         "Another please",
-         "Biggie me",
-         "Do tell",
-         "Do what now",
-         "Get on with it",
-         "Give me a fact",
-         "Gimme the loot",
-         "Gimme what you got",
-         "Go on",
-         "Hit me with it",
-         "Hit me",
-         "Hypnotize me",
-         "Is that all",
-         "More please",
-         "Put some flava in my ear",
-         "Spit your game",
-         "Sharing is caring",
-         "Shoot",
-         "Tell me a fact",
-         "Tell me more",
-         "Tell me something",
-         "What ya got for me",
-         "Who rock grooves",
-         "Wallace say what"
-      ],
-      "slots": []
+      "intent": "AMAZON.CancelIntent"
     }
   ]
 }
