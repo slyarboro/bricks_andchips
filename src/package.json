@@ -1,0 +1,18 @@
+{
+   "name": "bricks_andchips",
+   "version": "1.0.0",
+   "description": "\"An ill fact skill\"",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/slyarboro/bricks_andchips.git"
+   },
+   "author": "Amazon.com",
+   "license": "Apache-2.0",
+   "dependencies": {
+      "alexa-sdk": "^1.0.6"
+   }
+}
